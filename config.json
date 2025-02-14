@@ -1,0 +1,6 @@
+{
+  "rpcUrl": "https://api.mainnet-beta.solana.com",
+  "privateKey": "your_private_key_base58",
+  "network": "mainnet",
+  "feePayer": "another_private_key_base58"
+}
